@@ -28,13 +28,13 @@ section {
 
 #qual {
   float: left;
-  margin-left: 100px;
+  margin-left: 50px;
   padding: 18px;
 }
 
 #edu {
   float: right;
-  margin-right: 100px;
+  margin-right: 5px;
 }
 
 
@@ -57,4 +57,17 @@ section > ul {
 
 footer {
   background-color: #8fe6ca;
+}
+
+.right {
+  color: green;
+}
+
+.wrong {
+  color: red;
+}
+
+footer > ul {
+  font-family: fantasy;
+  font-size: 14px;
 }
